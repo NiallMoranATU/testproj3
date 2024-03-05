@@ -1,0 +1,84 @@
+header {
+     background-color: rgb(148, 199, 8);
+     height: 50x;
+     padding: 0px;
+     }
+h2 {
+    float: right;
+}
+nav ul li {
+    list-style-type: name;
+    background-color: #b2b2b2;
+    display: inline; 
+    padding: 15px; 
+    margin: 10px;
+    border: 2px solid yellow;
+    border-radius: 10px; 
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+nav ul{
+    text-align: center;
+    font-size: 1.2en;
+    padding: 10px;
+}
+nav {
+    background-color: green;
+    height: 70px;
+    padding: 5px;
+}
+h3 {
+    color:beige;
+}
+#farm2 {
+    background-color: black;
+    padding: 10px;
+}
+#logo
+{
+    display: inline;
+    border: 4px solid green;
+    border-radius: 6%;
+}
+
+#BigPic
+{
+    border: 6px solid green;
+    border-color: green;
+}
+#BigPic2
+{
+    border: 6px solid white;
+    border-color: white;
+}
+#BigPic3
+{
+    border: 6px solid white;
+    border-color: white;
+}
+#farm {
+    color: white;
+}
+main h3{
+    color: darkkhaki;
+}
+#hens{ color: black;
+padding: 10px; }
+footer { 
+    background-color: darkgreen;
+    height: 70px;
+    padding: 10px; } 
+#morelambs{
+    border: 10px dotted darkolivegreen;
+}
+#playfulLambs
+{
+color: darkgreen;
+}
+#tiredLambs
+{
+color: darkgreen;
+}
